@@ -1,0 +1,20 @@
+Job title: Data Science Internship
+Company: Sky
+Location: London
+Type: Summer internship
+Closing date: 2026-11-15
+
+About the role
+Join data science teams that guide growth, personalisation and experimentation.
+
+Responsibilities
+- Analyse customer data
+- Support test-and-learn experiments
+
+Requirements
+- Undergraduate in penultimate year
+- Python, SQL, R, SAS or MATLAB
+- Machine learning basics such as regression and decision trees
+
+Eligibility and other information
+Must have right to work in the UK or Ireland for the full programme.

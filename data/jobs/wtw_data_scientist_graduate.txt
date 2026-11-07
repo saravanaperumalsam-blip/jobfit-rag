@@ -1,0 +1,23 @@
+Job title: Data Scientist Graduate - Insurance Consulting
+Company: WTW
+Location: London or Reigate
+Type: Graduate programme
+Closing date: 2026-11-20
+
+About the role
+Develop, assess and deploy machine learning models for insurance pricing, reserving and capital clients, using open-source and in-house tools.
+
+Responsibilities
+- Build and deploy machine learning models
+- Write high-quality code
+- Explain complex ideas to clients and colleagues
+
+Requirements
+- At least a 2:1 in a numerate degree, A-level Mathematics at grade A or equivalent
+- Python, R or SQL
+- Interest in machine learning and generative AI
+- Comfortable using AI tools; exposure to RAG or agentic AI is a bonus
+- Clear and confident communicator
+
+Eligibility and other information
+Office-based at least four days a week.

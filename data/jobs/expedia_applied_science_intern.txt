@@ -1,0 +1,23 @@
+Job title: Applied Science Intern - Masters
+Company: Expedia Group
+Location: London
+Type: Summer internship
+Closing date: 2026-11-18
+
+About the role
+Work with applied scientists to build and test machine learning models that improve travel products for millions of customers.
+
+Responsibilities
+- Develop and evaluate machine learning models
+- Analyse large datasets with Python and SQL
+- Share results with technical and non-technical partners
+
+Requirements
+- Graduating with a technical Master's degree between December 2027 and July 2028
+- Python or Scala, and SQL
+- No more than two years of professional experience
+- Helpful: regression, gradient boosting, random forests, neural networks
+- Helpful: Spark, Hadoop and cloud computing such as AWS
+
+Eligibility and other information
+Programme runs 21 June to 27 August 2027. Must be graduating in the same country as the internship.

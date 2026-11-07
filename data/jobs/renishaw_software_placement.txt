@@ -1,0 +1,19 @@
+Job title: Software Placement Year
+Company: Renishaw (via Graduate Recruitment Bureau)
+Location: Wotton-under-Edge, Gloucestershire
+Type: Industrial placement (12 months)
+Closing date: 2026-11-12
+
+About the role
+Work in a product development software team building engineering and metrology products.
+
+Responsibilities
+- Develop software in C#, C++ and WPF using Visual Studio
+- Follow agile software development processes
+
+Requirements
+- Studying Software Engineering or Computer Science, or STEM with an interest in coding
+- No experience needed; strong interest in software
+
+Eligibility and other information
+Semi-rural site: reliable transport or relocation needed. Salary around 24,500 GBP.

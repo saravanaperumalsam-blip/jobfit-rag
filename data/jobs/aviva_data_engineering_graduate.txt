@@ -1,0 +1,19 @@
+Job title: Data Engineering Graduate Pathway
+Company: Aviva
+Location: Bristol or Norwich
+Type: Graduate programme
+Closing date: 2026-12-01
+
+About the role
+A two-year graduate programme building data pipelines and platforms.
+
+Responsibilities
+- Build and maintain data pipelines
+- Pass an online coding test during selection
+
+Requirements
+- Degree in Computer Science, Data Science or a programming subject by summer 2027
+- Analytical and detail-oriented
+
+Eligibility and other information
+Indefinite right to work in the UK required; no visa sponsorship.

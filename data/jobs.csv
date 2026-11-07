@@ -1,0 +1,28 @@
+job_id,company,title,location,job_type,closing_date,file
+arm_data_analytics_intern,Arm,Data Analytics Intern,Cambridge,Internship (12 months),2026-11-13,jobs/arm_data_analytics_intern.txt
+akzonobel_data_science_placement,AkzoNobel,Data Science Industrial Placement,"Felling, Gateshead",Industrial placement (12 months),2026-11-06,jobs/akzonobel_data_science_placement.txt
+akzonobel_placement_analyst,AkzoNobel,Industrial Placement Analyst,Slough,Industrial placement (12 months),2026-11-12,jobs/akzonobel_placement_analyst.txt
+expedia_applied_science_intern,Expedia Group,Applied Science Intern - Masters,London,Summer internship,2026-11-18,jobs/expedia_applied_science_intern.txt
+expedia_mobile_intern,Expedia Group,Mobile Engineering Intern,London,Summer internship,2026-11-18,jobs/expedia_mobile_intern.txt
+wtw_data_scientist_graduate,WTW,Data Scientist Graduate - Insurance Consulting,London or Reigate,Graduate programme,2026-11-20,jobs/wtw_data_scientist_graduate.txt
+cgi_applied_ai_graduate,CGI,Technical Graduate - Applied AI Engineering,London or Reading,Graduate programme,2026-11-14,jobs/cgi_applied_ai_graduate.txt
+cgi_data_analysis_graduate,CGI,Technical Graduate - Data Analysis and Data Science,Multiple UK locations,Graduate programme,2026-11-14,jobs/cgi_data_analysis_graduate.txt
+cummins_business_analyst_placement,Cummins,Placement Student - Business Analyst,Redditch,Industrial placement,2026-11-12,jobs/cummins_business_analyst_placement.txt
+cummins_test_engineering_placement,Cummins,Placement Student - Test Engineering,Cwmbran,Industrial placement,2026-12-02,jobs/cummins_test_engineering_placement.txt
+atkinsrealis_data_intelligence_placement,AtkinsRealis,Data Intelligence Industrial Year Placement,London or Bristol,Industrial placement,2026-12-03,jobs/atkinsrealis_data_intelligence_placement.txt
+ey_deal_analytics_internship,EY-Parthenon,Analytics and AI - Deal Analytics Summer Internship,Birmingham,Summer internship,2026-11-28,jobs/ey_deal_analytics_internship.txt
+sparta_data_consultant,Sparta Global,Data Consultant,London,Graduate training academy,2026-12-05,jobs/sparta_data_consultant.txt
+sparta_junior_data_consultant,Sparta Global,Junior Data Consultant,"Sheffield, London or Manchester",Graduate training academy,2026-12-06,jobs/sparta_junior_data_consultant.txt
+nhs_digital_data_placement,NHS,"Undergraduate Work Placement - Finance, Procurement and Digital/Data",Multiple locations including Leicester,Industrial placement (12 months),2027-02-01,jobs/nhs_digital_data_placement.txt
+wsp_intelligent_infrastructure_graduate,WSP,Graduate - Intelligent Infrastructure,Multiple UK locations,Graduate programme,2026-11-06,jobs/wsp_intelligent_infrastructure_graduate.txt
+renishaw_software_placement,Renishaw (via Graduate Recruitment Bureau),Software Placement Year,"Wotton-under-Edge, Gloucestershire",Industrial placement (12 months),2026-11-12,jobs/renishaw_software_placement.txt
+rollsroyce_engineering_internship,Rolls-Royce,Engineering and Technology Summer Internship,"Bristol, Derby and other UK sites",Summer internship,2026-11-13,jobs/rollsroyce_engineering_internship.txt
+aviva_ai_ml_graduate,Aviva,AI and Machine Learning Graduate Pathway,Bristol or Norwich,Graduate programme,2026-12-01,jobs/aviva_ai_ml_graduate.txt
+aviva_data_engineering_graduate,Aviva,Data Engineering Graduate Pathway,Bristol or Norwich,Graduate programme,2026-12-01,jobs/aviva_data_engineering_graduate.txt
+roku_ai_engineering_internship,Roku,AI Engineering Internship,Manchester or Cambridge,Summer internship,2026-11-30,jobs/roku_ai_engineering_internship.txt
+faculty_data_science_fellowship,Faculty,Data Science Fellowship,On site,Fellowship (8 weeks),2026-11-17,jobs/faculty_data_science_fellowship.txt
+sky_data_science_internship,Sky,Data Science Internship,London,Summer internship,2026-11-15,jobs/sky_data_science_internship.txt
+awe_safety_placement,AWE,Conventional Safety Specialist - Year in Industry,"Aldermaston, Reading",Industrial placement,2026-11-09,jobs/awe_safety_placement.txt
+bloomberg_analytics_sales_internship,Bloomberg,Analytics and Sales Internship - Japanese Speakers,London,Summer internship,2027-01-31,jobs/bloomberg_analytics_sales_internship.txt
+absolute_interpreter,Absolute Interpreting and Translations,Interpreter,Leicester,Part-time / freelance,2026-12-14,jobs/absolute_interpreter.txt
+henley_care_worker,Henley Care,Home Care Worker,Henley-on-Thames,Part-time,2026-11-30,jobs/henley_care_worker.txt

@@ -1,0 +1,25 @@
+Job title: Data Science Industrial Placement
+Company: AkzoNobel
+Location: Felling, Gateshead
+Type: Industrial placement (12 months)
+Closing date: 2026-11-06
+
+About the role
+Help a marine coatings business measure how hull coatings affect ship fuel consumption and carbon emissions, using vessel performance data.
+
+Responsibilities
+- Clean and analyse tabular vessel performance data
+- Apply statistical methods to measure coating performance
+- Create clear charts and reports
+- Explain analytical findings to technical and commercial colleagues
+
+Requirements
+- Degree that includes a year in industry, expecting at least a 2:1
+- Practical Python programming
+- Comfortable with tabular and numerical data
+- Understanding of statistics and data analysis
+- Clear data visualisation and communication
+- Willing to learn about marine coatings and vessel operations
+
+Eligibility and other information
+One-year placement from July 2027. Salary around 25,000 GBP plus relocation allowance.

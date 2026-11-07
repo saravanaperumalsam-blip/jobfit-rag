@@ -1,0 +1,23 @@
+Job title: Technical Graduate - Data Analysis and Data Science
+Company: CGI
+Location: Multiple UK locations
+Type: Graduate programme
+Closing date: 2026-11-14
+
+About the role
+Analyse large datasets, build data models and pipelines, and create dashboards that help clients make decisions.
+
+Responsibilities
+- Explore and model data
+- Build data pipelines and check data quality
+- Present insights with dashboards
+
+Requirements
+- Minimum 2:2 in a STEM subject
+- Python or another data language
+- Understanding of data pipelines and data quality
+- Data visualisation
+- Interest in AI and cloud technologies
+
+Eligibility and other information
+Many roles need National Security Vetting, which usually requires 5 to 10 years of UK residency.

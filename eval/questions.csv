@@ -1,0 +1,35 @@
+question,expected_job_id,type
+Which placement involves measuring how ship hull coatings change fuel use?,akzonobel_data_science_placement,keyword
+Which role needs Excel with Power Query for a business placement in Slough?,akzonobel_placement_analyst,keyword
+Which internship in Cambridge works on silicon quality data and AI-assisted automation?,arm_data_analytics_intern,keyword
+Which job requires DV security clearance and ten years of UK residency?,awe_safety_placement,keyword
+Which internship is for Japanese speakers interested in financial markets?,bloomberg_analytics_sales_internship,keyword
+Which role uses C# and WPF in Visual Studio?,renishaw_software_placement,keyword
+Which internship builds AI agents with retrieval and tool calling?,roku_ai_engineering_internship,keyword
+Which master's internship asks for Python or Scala and knowledge of Spark?,expedia_applied_science_intern,keyword
+Which internship involves iOS and Android app features?,expedia_mobile_intern,keyword
+Which graduate scheme wants A-level Mathematics at grade A and insurance pricing work?,wtw_data_scientist_graduate,keyword
+Which placement supports supply chain planning with dashboards in Redditch?,cummins_business_analyst_placement,keyword
+Which placement needs a mechanical engineering degree for braking components?,cummins_test_engineering_placement,keyword
+Which internship uses analytics for mergers and acquisitions?,ey_deal_analytics_internship,keyword
+Which programme needs a completed PhD or Master's and Bayesian inference?,faculty_data_science_fellowship,keyword
+Which internship is only for penultimate-year undergraduates at a TV company?,sky_data_science_internship,keyword
+Which job requires an Enhanced DBS check for interpreting?,absolute_interpreter,keyword
+Which part-time job involves personal care in clients' homes?,henley_care_worker,keyword
+Which placement is in an NHS finance or digital team?,nhs_digital_data_placement,keyword
+Which graduate role makes transport networks safer using digital technology?,wsp_intelligent_infrastructure_graduate,keyword
+Which role does not accept Graduate or post-study work visas?,sparta_junior_data_consultant,keyword
+Which graduate role deploys generative AI solutions for clients in London or Reading?,cgi_applied_ai_graduate,keyword
+Which 10-week engineering internship is open to any STEM student?,rollsroyce_engineering_internship,keyword
+Which graduate pathway builds data pipelines and includes a coding test?,aviva_data_engineering_graduate,keyword
+Which industrial year placement asks for agile working and professional accreditation?,atkinsrealis_data_intelligence_placement,keyword
+Which role helps shipping companies cut their carbon footprint?,akzonobel_data_science_placement,paraphrase
+Where could I build software for precision measurement products in a rural part of England?,renishaw_software_placement,paraphrase
+Which job would let me help patients and families who don't speak English?,absolute_interpreter,paraphrase
+Which opportunity helps elderly or disabled people stay independent at home?,henley_care_worker,paraphrase
+Which position is about keeping people safe at a defence organisation?,awe_safety_placement,paraphrase
+Which internship lets me build assistants that investigate failures and automate engineering workflows?,roku_ai_engineering_internship,paraphrase
+Which opportunity is about smarter roads and railways?,wsp_intelligent_infrastructure_graduate,paraphrase
+Which role trains people with no degree requirement before sending them to client projects?,sparta_data_consultant,paraphrase
+Which job improves travel booking apps on phones?,expedia_mobile_intern,paraphrase
+Where would I help a chip design company check the quality of its products?,arm_data_analytics_intern,paraphrase

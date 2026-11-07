@@ -1,0 +1,22 @@
+Job title: Data Consultant
+Company: Sparta Global
+Location: London
+Type: Graduate training academy
+Closing date: 2026-12-05
+
+About the role
+Paid academy training followed by placement with clients as a data consultant. A university degree is not required; the programme welcomes career changers.
+
+Responsibilities
+- Collect, clean, analyse and present data
+- Build ETL pipelines
+- Apply data governance and ethics
+
+Requirements
+- Motivated and curious
+- Communicates well and works in teams
+- Interest in technology, data and business
+- Training covers Excel, SQL and Python
+
+Eligibility and other information
+Check right-to-work rules before applying.

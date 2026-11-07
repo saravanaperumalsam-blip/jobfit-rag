@@ -1,0 +1,23 @@
+Job title: Mobile Engineering Intern
+Company: Expedia Group
+Location: London
+Type: Summer internship
+Closing date: 2026-11-18
+
+About the role
+Build features for iOS and Android travel apps as part of an engineering team.
+
+Responsibilities
+- Develop and test mobile app features
+- Write automated tests
+- Collaborate with designers and engineers
+
+Requirements
+- Graduating with a technical degree between December 2027 and July 2028
+- Helpful: data structures and algorithms
+- Helpful: iOS or Android development
+- Helpful: automated testing
+- Good communication
+
+Eligibility and other information
+Programme runs June to August 2027 in London.

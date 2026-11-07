@@ -1,0 +1,21 @@
+Job title: Data Science Fellowship
+Company: Faculty
+Location: On site
+Type: Fellowship (8 weeks)
+Closing date: 2026-11-17
+
+About the role
+An eight-week programme with training and a paid placement solving a commercial data science problem.
+
+Responsibilities
+- Apply machine learning to client problems
+- Plan and deliver your own project
+
+Requirements
+- Completed PhD or Master's in a STEM subject
+- Strong maths: hypothesis testing, Bayesian inference, neural networks
+- Strong Python
+- Clear communication
+
+Eligibility and other information
+Paid at around 14.80 GBP per hour.

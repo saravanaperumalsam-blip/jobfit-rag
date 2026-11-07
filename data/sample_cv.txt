@@ -1,0 +1,33 @@
+Sample CV (anonymised)
+
+Profile
+MSc Artificial Intelligence with Industry student with hands-on experience across the full machine learning pipeline, from data acquisition and cleaning to model building, evaluation and explanation. Works with LLM APIs, Retrieval-Augmented Generation (RAG) and vector databases.
+
+Technical skills
+- Programming and data: Python (Pandas, NumPy), SQL, data cleaning, preprocessing and validation
+- Machine learning: regression, random forests, gradient boosting, precision/recall, cross-validation
+- Deep learning and computer vision: CNNs (ResNet50, DenseNet121), model training and benchmarking, statistics
+- Generative AI: LLM APIs, RAG, vector databases
+- Explainable AI: Grad-CAM, LIME, Integrated Gradients
+- Visualisation: Matplotlib, Seaborn, Power BI
+- Tools: Jupyter Notebook, VS Code, Git, GitHub
+
+Experience
+Junior AI/ML Engineer Intern (2026)
+- Worked across the full ML pipeline: data acquisition, preprocessing, model building, testing and evaluation.
+- Worked with cross-functional teams to turn business requirements into technical solutions.
+- Kept code and documentation reproducible.
+
+Data Analyst Intern (2025)
+- Cleaned, validated and benchmarked real-world datasets in Python.
+- Produced reports and insight decks for non-technical stakeholders.
+
+Project
+Explainable medical imaging platform: multi-disease detection from chest X-rays with ResNet50 and DenseNet121, explained with Grad-CAM, LIME and Integrated Gradients.
+
+Education
+MSc Artificial Intelligence with Industry (2026 - 2028)
+BE Computer Science Engineering (2022 - 2026)
+
+Other
+Teamwork, communication, event organisation. Languages: English, Tamil.

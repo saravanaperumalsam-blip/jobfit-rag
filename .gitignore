@@ -1,0 +1,22 @@
+# secrets
+.env
+
+# generated
+chroma_db/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local caches kept on D:
+.tmp/
+.hf_cache/
+.pip-cache/
+.claude/

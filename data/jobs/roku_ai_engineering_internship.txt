@@ -1,0 +1,22 @@
+Job title: AI Engineering Internship
+Company: Roku
+Location: Manchester or Cambridge
+Type: Summer internship
+Closing date: 2026-11-30
+
+About the role
+Build AI agents and automated workflows for a TV streaming platform.
+
+Responsibilities
+- Build and test AI agents and copilots
+- Connect agents to data using retrieval and tool calling
+- Evaluate reliability and failure modes
+
+Requirements
+- Penultimate-year student or final-year moving to a one-year master's
+- Strong Python
+- Experience building LLM-powered or agentic systems
+- Familiar with retrieval, tool use and orchestration
+
+Eligibility and other information
+Permanent UK right to work required; student visas cannot be considered.

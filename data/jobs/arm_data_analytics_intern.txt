@@ -1,0 +1,24 @@
+Job title: Data Analytics Intern
+Company: Arm
+Location: Cambridge
+Type: Internship (12 months)
+Closing date: 2026-11-13
+
+About the role
+Join a silicon quality analytics team that turns complex engineering data into reliable insights. You will prepare and analyse data, automate repetitive analysis with AI-assisted tools, and help build simple machine learning models and dashboards.
+
+Responsibilities
+- Prepare, explore and analyse quality data using Python or SQL
+- Automate repetitive analytics tasks with AI-assisted tools and check their outputs
+- Build visualisations and explain findings to engineers
+- Investigate data quality issues and suggest process improvements
+
+Requirements
+- Studying a Bachelor's, Master's or PhD in Data Science, Computer Science, Mathematics, Statistics, Engineering or similar
+- Python or SQL for data preparation and analysis
+- Basic statistics and machine learning concepts
+- Visualisation with Tableau, Power BI or Python
+- Curiosity, attention to detail and teamwork
+
+Eligibility and other information
+12-month internship starting June 2027. You must be enrolled on a degree and return to it after the internship.

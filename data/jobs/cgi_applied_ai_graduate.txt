@@ -1,0 +1,23 @@
+Job title: Technical Graduate - Applied AI Engineering
+Company: CGI
+Location: London or Reading
+Type: Graduate programme
+Closing date: 2026-11-14
+
+About the role
+Develop artificial intelligence and generative AI solutions and deploy them in real client environments.
+
+Responsibilities
+- Engineer and evaluate machine learning and generative AI solutions
+- Work with databases and data models
+- Explain technical ideas to clients
+
+Requirements
+- Minimum 2:2 in computer science, mathematics or a technical subject
+- Strong interest in AI, machine learning and generative AI including large language models
+- Programming and software engineering experience, version control
+- SQL and relational databases
+- Clear written and verbal communication
+
+Eligibility and other information
+Baseline security clearance required; some roles need higher vetting with residency rules. Travel to client sites.
